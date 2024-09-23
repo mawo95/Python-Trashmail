@@ -4,6 +4,11 @@ Python Trashmail Wrapper from futquest trashmail
 # Installation
 
 We currently don't have our lib on pip or yarn, so you need to download the trashmail.py from the github files manuelly or using git.
+Add the file in your project or copy the class in the code (you dont need the import statement then obv).
+
+# Requirements
+
+You need the requests lib and the pre-installed threading and time lib.
 
 # How to use?
 
