@@ -1,6 +1,10 @@
 # Python-Trashmail
 Python Trashmail Wrapper from futquest trashmail
 
+# Installation
+
+We currently don't have our lib on pip or yarn, so you need to download the trashmail.py from the github files manuelly or using git.
+
 # How to use?
 
 ```py
