@@ -1,4 +1,5 @@
 # Python-Trashmail
+# DISCONTINUED!!!
 Python Trashmail Wrapper from futquest trashmail
 
 # Installation
